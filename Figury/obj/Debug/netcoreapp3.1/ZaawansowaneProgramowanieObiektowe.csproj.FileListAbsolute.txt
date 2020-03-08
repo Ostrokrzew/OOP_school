@@ -1,0 +1,11 @@
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\bin\Debug\netcoreapp3.1\ZaawansowaneProgramowanieObiektowe.exe
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\bin\Debug\netcoreapp3.1\ZaawansowaneProgramowanieObiektowe.deps.json
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\bin\Debug\netcoreapp3.1\ZaawansowaneProgramowanieObiektowe.runtimeconfig.json
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\bin\Debug\netcoreapp3.1\ZaawansowaneProgramowanieObiektowe.runtimeconfig.dev.json
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\bin\Debug\netcoreapp3.1\ZaawansowaneProgramowanieObiektowe.dll
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\bin\Debug\netcoreapp3.1\ZaawansowaneProgramowanieObiektowe.pdb
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\obj\Debug\netcoreapp3.1\ZaawansowaneProgramowanieObiektowe.csprojAssemblyReference.cache
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\obj\Debug\netcoreapp3.1\ZaawansowaneProgramowanieObiektowe.AssemblyInfoInputs.cache
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\obj\Debug\netcoreapp3.1\ZaawansowaneProgramowanieObiektowe.AssemblyInfo.cs
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\obj\Debug\netcoreapp3.1\ZaawansowaneProgramowanieObiektowe.dll
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\obj\Debug\netcoreapp3.1\ZaawansowaneProgramowanieObiektowe.pdb

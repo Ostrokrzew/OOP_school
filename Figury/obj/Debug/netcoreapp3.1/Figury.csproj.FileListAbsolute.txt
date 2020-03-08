@@ -1,0 +1,10 @@
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\Figury\bin\Debug\netcoreapp3.1\Figury.exe
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\Figury\bin\Debug\netcoreapp3.1\Figury.deps.json
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\Figury\bin\Debug\netcoreapp3.1\Figury.runtimeconfig.json
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\Figury\bin\Debug\netcoreapp3.1\Figury.runtimeconfig.dev.json
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\Figury\bin\Debug\netcoreapp3.1\Figury.dll
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\Figury\bin\Debug\netcoreapp3.1\Figury.pdb
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\Figury\obj\Debug\netcoreapp3.1\Figury.AssemblyInfoInputs.cache
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\Figury\obj\Debug\netcoreapp3.1\Figury.AssemblyInfo.cs
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\Figury\obj\Debug\netcoreapp3.1\Figury.dll
+C:\Users\Sławek\Source\Repos\ZaawansowaneProgramowanieObiektowe\Figury\obj\Debug\netcoreapp3.1\Figury.pdb
